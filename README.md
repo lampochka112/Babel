@@ -1,5 +1,7 @@
-
+<h1 align="center">
+  <img src= width="150">
   <br>🎯 Полное руководство по Babel 2024
+</h1>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@babel/core">
